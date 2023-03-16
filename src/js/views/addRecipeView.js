@@ -1,4 +1,4 @@
-import View from './view.js';
+import View from './View.js';
 import icons from 'url:../../img/icons.svg'; // for parcel 2
 // import { getOwnPropertyNames } from 'core-js/core/object';
 

@@ -1,6 +1,6 @@
 import icons from 'url:../../img/icons.svg'; // for parcel 2
 
-import View from './view.js';
+import View from './View.js';
 class resultsView extends View {
   _parentElement = document.querySelector('.results');
   _errorMessage = `We could'nt fine the result of your query. Pls try again later :)`;

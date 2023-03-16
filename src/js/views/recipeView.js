@@ -1,5 +1,5 @@
 import icons from 'url:../../img/icons.svg'; // for parcel 2
-import View from './view.js';
+import View from './View.js';
 // var fracty = require('fracty');
 import fracty from 'fracty';
 

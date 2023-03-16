@@ -1,6 +1,6 @@
 import icons from 'url:../../img/icons.svg'; // for parcel 2
 
-import View from './view.js';
+import View from './View.js';
 class bookmarksView extends View {
   _parentElement = document.querySelector('.bookmarks__list');
   _errorMessage = `No bookmark yet find a nice recipe and bookmark it :)`;
