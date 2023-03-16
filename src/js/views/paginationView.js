@@ -12,6 +12,7 @@ class paginationView extends View {
       handler(gotoPage);
     });
   }
+
   _generataMarkupButton(btnType) {
     const currentPage = this._data.page;
     const next = `
